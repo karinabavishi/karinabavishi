@@ -1,6 +1,6 @@
 <!-- Female Developer Image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=1600&q=80" width="700" />
+  <img src="assets/karina background.jpeg" width="700" />
 </p>
 
 <h2 align="center">Hi 👋 I'm Karina Bavishi</h2>
